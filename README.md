@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @gorkemye
-- 👀 I’m interested in Python and Django.
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Python, Django and Golang.
+- 🌱 I’m currently learning React and Golang.
 - 📫 How to reach me via gorkemyetimler@gmail.com
 
 <!---
